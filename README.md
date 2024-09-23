@@ -10,13 +10,13 @@ No obstante, lo estudiantes tienen la posibilidad de ejecutar los *notebooks* si
 
 ### Google Colab
 
-Si tienen cuenta en Google pueden pulsar en la etiqueta de [Google Colab](https://colab.research.google.com/), que aparece en la parte superior de varios *notebooks*. Con ello el *notebook* se abre en el entorno de ejecución, en la nube de Google, sin que haya que instalar ningún software localmente. No obstante, la gestión de los ficheros debe hacerse a mano con la interfaz gráfica de Colab, según se resumen en los *notebooks* bajo la etiqueta de *Open in Colab*. EN principio no hay persistencia de los resultados, si bien puede utilizarse Google Drive para almacenar *notebooks* y configurar cierta persistencia.
+Si tienen cuenta en Google pueden pulsar en la etiqueta de [Google Colab](https://colab.research.google.com/), que aparece en la parte superior de varios *notebooks*. Con ello el *notebook* se abre en el entorno de ejecución, en la nube de Google, sin que haya que instalar ningún software localmente. No obstante, la gestión de los ficheros debe hacerse a mano con la interfaz gráfica de Colab, según se resumen en los *notebooks* bajo la etiqueta de *Open in Colab*. En principio no hay persistencia de los resultados, si bien puede utilizarse Google Drive para almacenar *notebooks* y configurar cierta persistencia. Si optan por utilizar Google Drive deben tener en cuenta que hay que concederle permisos de acceso a Google Colab y a los *notebooks* al Google Drive personal, por lo que debe hacerse con sumo cuidado para no dejar accesibles los datos almacenados en el mismo a terceros.
 
 ### MyBinder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ULPGC-GTMA/ULPGC-TIV/HEAD)
 
-Se trata de un servicio gratuito para ejecutar en la nube repositarios de *notebooks*, aunque puede resultar algo lento. Para ejecutarlo hay que pulsarse la etiqueta que está al comienzo de este documento y se podrán abrir los *notebooks* en el entorno MyBinder. Adviértase que las sesiones de MyBinder son temporales, de forma que los cambios que se hagan sobre los *notebooks* se pierden entre sesiones, aun cuando se almacenen, una vez se cierra la ventana del navgador. Sí es posible descargar los *notebooks* al ordenador local.
+Se trata de un servicio gratuito para ejecutar en la nube repositarios de *notebooks*, aunque puede resultar algo lento. Para ejecutarlo hay que pulsarse la etiqueta que está al comienzo de este documento y se podrán abrir los *notebooks* en el entorno MyBinder. Adviértase que las sesiones de MyBinder son temporales, de forma que los cambios que se hagan sobre los *notebooks* se pierden entre sesiones, aun cuando se almacenen, una vez se cierra la ventana del navegador. Sí es posible descargar los *notebooks* al ordenador local.
 
 Puede accederse a la ejecución en MyBinder también en <https://mybinder.org/v2/gh/ULPGC-GTMA/ULPGC-TIV/HEAD>
 
